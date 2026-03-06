@@ -1,14 +1,11 @@
 ---
-title: "Paper Title Number 1"
+title: "Immune-enhancing effects of polysaccharides MLN-1 from by-product of Mai-luo-ning in vivo and in vitro"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: https://www.tandfonline.com/doi/full/10.1080/09540105.2019.1582612
+date: 2019-03-28
+venue: 'Food and Agricultural Immunology'
+paperurl: 'https://www.tandfonline.com/doi/full/10.1080/09540105.2019.1582612'
+citation: 'Nie, L., Xiao, Q., Liu, S., Li, B., Duan, J., Fan, Y., … Zhu, H. (2019). Immune-enhancing effects of polysaccharides MLN-1 from by-product of Mai-luo-ning in vivo and in vitro. Food and Agricultural Immunology, 30(1), 369–384. https://doi.org/10.1080/09540105.2019.1582612'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
