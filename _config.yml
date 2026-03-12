@@ -9,13 +9,13 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Linfeng Nie | Texas A&M University"
+title                    : "Linfeng Nie / Texas A&M University"
 title_separator          : "-"
-name                     : &name "Linfeng"
+name                     : &name "Linfeng Nie"
 description              : "Academic portfolio of Linfeng Nie"
-url                      : "https://niejackson123.github.io"
+url                      : "https://github.com/niejackson123/niejackson.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "niejackson123/niejackson123.github.io"
+repository               : "niejackson123/niejackson.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
